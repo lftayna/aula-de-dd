@@ -2,4 +2,4 @@
 # domingo
 # tarde
 pratica git 
-suco de laranja
+suco de laranj
